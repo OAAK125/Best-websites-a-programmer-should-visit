@@ -164,6 +164,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 💡 For those who want to start a small project but can't find the ideas
+- [Code mentor Dev projects ](https://www.codementor.io/projects) : A collection of a wide range of easy to medium real world project ideas.
 - [freeCodeCamp/React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
 - [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
@@ -171,7 +172,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 - [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) : A Collection of application ideas which can be used to improve your coding skills.
-- [Code mentor Dev projects ](https://www.codementor.io/projects) : A collection of a wide range of easy to medium real world project ideas.
+
 
 
 <div align="right">
